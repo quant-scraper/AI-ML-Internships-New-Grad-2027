@@ -4,7 +4,7 @@ Every open internship and graduate role at 30 AI labs and AI companies, read fro
 
 From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
 
-**38** internships · **28** graduate roles · updated 2026-10-26 05:19 UTC
+**38** internships · **28** graduate roles · updated 2026-10-26 11:15 UTC
 
 ## Where the roles are
 
