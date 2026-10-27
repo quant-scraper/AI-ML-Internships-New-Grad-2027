@@ -1,10 +1,10 @@
-# 2027 AI Internships & Graduate Roles
+# 2027 AI/ML Internships & Graduate Roles
 
-Every open internship and graduate role at 30 AI labs and AI companies, read from each firm's own careers page every six hours. Roles are sorted by what the job is and where it is: discipline, then focus, with every city the firm lists.
+Every open internship and graduate role at 30 AI labs and AI & machine learning companies, read from each firm's own careers page every six hours. Roles are sorted by what the job is and where it is: discipline, then focus, with every city the firm lists.
 
 From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
 
-**39** internships · **28** graduate roles · updated 2026-10-27 02:06 UTC
+**39** internships · **28** graduate roles · updated 2026-10-27 10:37 UTC
 
 ## Where the roles are
 
@@ -57,9 +57,9 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 
 | Company | Role | Location | Focus | Posted |
 |---|---|---|---|---|
+| **[Together AI](https://quant-scraper.com/companies/together)** | [Technical Writer Intern, Developer Experience (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) | San Francisco | Software | Oct 27 |
 | **[Vercel](https://quant-scraper.com/companies/vercel)** | [Software Engineering Intern - Summer '27](https://job-boards.greenhouse.io/vercel/jobs/6181759004) | San Francisco | Software | Oct 26 |
-| **[Together AI](https://quant-scraper.com/companies/together)** | [Technical Writer Intern, Developer Experience (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) | San Francisco | Software | Oct 26 |
-| ↳ | [Hardware Security Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) | San Francisco | Security | Oct 16 |
+| **Together AI** | [Hardware Security Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) | San Francisco | Security | Oct 16 |
 | **[xAI](https://quant-scraper.com/companies/xai)** | [Spring 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5252108007) | Palo Alto | Software | Oct 2 |
 | ↳ | [Summer 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255111007) | Palo Alto | Software | Oct 2 |
 | **[Physical Intelligence](https://quant-scraper.com/companies/physicalintelligence)** | [Mechatronics Intern](https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a) | San Francisco | General | Sep 17 |
