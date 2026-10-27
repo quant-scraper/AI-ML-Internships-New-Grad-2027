@@ -1,25 +1,25 @@
-# AI Internships & Graduate Roles
+# 2027 AI Internships & Graduate Roles
 
 Every open internship and graduate role at 30 AI labs and AI companies, read from each firm's own careers page every six hours. Roles are sorted by what the job is and where it is: discipline, then focus, with every city the firm lists.
 
-From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
+From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
 
-**38** internships · **28** graduate roles · updated 2026-10-26 17:26 UTC
+**39** internships · **28** graduate roles · updated 2026-10-27 02:06 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
 | Research | [21](https://quant-scraper.com/ai?for=students&discipline=research&region=AMER) | [5](https://quant-scraper.com/ai?for=students&discipline=research&region=EMEA) | — | [23](https://quant-scraper.com/ai?for=students&discipline=research) |
-| Engineering & technology | [31](https://quant-scraper.com/ai?for=students&discipline=technology&region=AMER) | [10](https://quant-scraper.com/ai?for=students&discipline=technology&region=EMEA) | [2](https://quant-scraper.com/ai?for=students&discipline=technology&region=APAC) | [43](https://quant-scraper.com/ai?for=students&discipline=technology) |
+| Engineering & technology | [32](https://quant-scraper.com/ai?for=students&discipline=technology&region=AMER) | [10](https://quant-scraper.com/ai?for=students&discipline=technology&region=EMEA) | [2](https://quant-scraper.com/ai?for=students&discipline=technology&region=APAC) | [44](https://quant-scraper.com/ai?for=students&discipline=technology) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
 ## Contents
 
-- [Internships](#internships) (38)
+- [Internships](#internships) (39)
   - [Research](#research--internships) (22)
-  - [Engineering & technology](#engineering--technology--internships) (16)
+  - [Engineering & technology](#engineering--technology--internships) (17)
 - [Graduate roles](#graduate-roles) (28)
   - [Research](#research--graduate-roles) (1)
   - [Engineering & technology](#engineering--technology--graduate-roles) (27)
@@ -57,7 +57,9 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 
 | Company | Role | Location | Focus | Posted |
 |---|---|---|---|---|
-| **[Together AI](https://quant-scraper.com/companies/together)** | [Hardware Security Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) | San Francisco | Security | Oct 16 |
+| **[Vercel](https://quant-scraper.com/companies/vercel)** | [Software Engineering Intern - Summer '27](https://job-boards.greenhouse.io/vercel/jobs/6181759004) | San Francisco | Software | Oct 26 |
+| **[Together AI](https://quant-scraper.com/companies/together)** | [Technical Writer Intern, Developer Experience (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) | San Francisco | Software | Oct 26 |
+| ↳ | [Hardware Security Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) | San Francisco | Security | Oct 16 |
 | **[xAI](https://quant-scraper.com/companies/xai)** | [Spring 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5252108007) | Palo Alto | Software | Oct 2 |
 | ↳ | [Summer 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255111007) | Palo Alto | Software | Oct 2 |
 | **[Physical Intelligence](https://quant-scraper.com/companies/physicalintelligence)** | [Mechatronics Intern](https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a) | San Francisco | General | Sep 17 |
@@ -71,8 +73,7 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 | **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | London | Software | — |
 | ↳ | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco | Software | — |
 | ↳ | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) | Doha | Software | — |
-| **[Vercel](https://quant-scraper.com/companies/vercel)** | [Software Engineering Intern - Summer '27](https://job-boards.greenhouse.io/vercel/jobs/6181759004) | San Francisco | Software | — |
-| ↳ | [Software Engineering Intern - Winter '27](https://job-boards.greenhouse.io/vercel/jobs/6181755004) | San Francisco | Software | — |
+| **Vercel** | [Software Engineering Intern - Winter '27](https://job-boards.greenhouse.io/vercel/jobs/6181755004) | San Francisco | Software | — |
 
 ## Graduate roles
 
