@@ -1,10 +1,10 @@
 # 2027 AI/ML Internships & Graduate Roles
 
-Every open internship and graduate role at 31 AI labs and AI & machine learning companies, read from each firm's own careers page every six hours. Roles are sorted by what the job is and where it is: discipline, then focus, with every city the firm lists.
+Every open internship and graduate role at 31 AI labs and AI & machine learning companies, read from each firm's own careers page every six hours. Roles are sorted by what the job is and where it is: discipline, then focus, with every city the firm lists. Salary is the base pay a posting states, per year in USD (hourly and monthly pay multiplied out); in practice that means US roles, where the law requires it.
 
 From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
 
-**42** internships · **32** graduate roles · updated 2026-10-29 03:19 UTC
+**42** internships · **32** graduate roles · updated 2026-10-29 11:33 UTC
 
 ## Where the roles are
 
@@ -28,166 +28,166 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 
 ### Research — internships
 
-| Company | Role | Location | Focus | Posted |
-|---|---|---|---|---|
-| **[Meta Superintelligence Labs](https://quant-scraper.com/companies/msl)** | [Research Scientist Intern, MSL Agents (PhD)](https://www.metacareers.com/jobs/1136354555738164/) | Menlo Park | Agents | Oct 22 |
-| **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, San Francisco | AI / ML | Oct 20 |
-| **[Together AI](https://quant-scraper.com/companies/together)** | [Research Intern, Frontier Speculative Decoding (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) | San Francisco | Inference & performance | Oct 16 |
-| ↳ | [Research Intern, Frontier Speculative Decoding (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5267197007) | San Francisco | Inference & performance | Oct 16 |
-| **[Modal](https://quant-scraper.com/companies/modal)** | [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | New York, San Francisco | AI / ML | Jul 28 |
-| **[Mistral AI](https://quant-scraper.com/companies/mistral)** | [Applied Scientist (Internship)](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e) | Paris, London | Forward deployed & solutions | Jul 3 |
-| **[Cohere](https://quant-scraper.com/companies/cohere)** | [Machine Learning Intern/Co-op (Winter 2027)](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) | London | AI / ML | May 13 |
-| ↳ | [Research Internship (Winter 2027)](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) | San Francisco, London +2 | AI / ML | May 1 |
-| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Research Intern - World-Action Foundation Model, Robotics](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4) | Sunnyvale | Robotics | Feb 13 |
-| ↳ | [Research Intern - Robotic Hardware, Simulation and Data](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883) | Sunnyvale | Robotics | Feb 13 |
-| ↳ | [Research Intern - Reinforcement Learning, Robotics](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902) | Sunnyvale | Post-training & RL | Feb 13 |
-| ↳ | [Research Intern - 3D Vision and Generation, Self-Driving](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4) | Sunnyvale | Multimodal | Feb 13 |
-| ↳ | [Research Intern - Reinforcement Learning, Self-Driving](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526) | Sunnyvale | Post-training & RL | Sep 21, 2024 |
-| **[Physical Intelligence](https://quant-scraper.com/companies/physicalintelligence)** | [Research Internships](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076) | San Francisco | AI / ML | Aug 24, 2024 |
-| **Together AI** | [Research Intern, Frontier Agents (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) | San Francisco | Agents | — |
-| ↳ | [Research Intern, Frontier Agents (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) | San Francisco | Agents | — |
-| ↳ | [Research Intern, Inference (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) | San Francisco | Inference & performance | — |
-| ↳ | [Research Intern, Inference (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238461007) | San Francisco | Inference & performance | — |
-| ↳ | [Research Intern, Model Shaping (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238466007) | San Francisco, Amsterdam | Post-training & RL | — |
-| ↳ | [Research Intern, Model Shaping (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238465007) | San Francisco, Amsterdam | Post-training & RL | — |
-| ↳ | [Systems Research Engineer Intern - GPU Programming (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238460007) | San Francisco | Inference & performance | — |
-| ↳ | [Systems Research Engineer Intern - GPU Programming (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238411007) | San Francisco | Inference & performance | — |
+| Company | Role | Location | Focus | Salary | Posted |
+|---|---|---|---|---|---|
+| **[Meta Superintelligence Labs](https://quant-scraper.com/companies/msl)** | [Research Scientist Intern, MSL Agents (PhD)](https://www.metacareers.com/jobs/1136354555738164/) | Menlo Park | Agents | — | Oct 22 |
+| **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, San Francisco | AI / ML | USD 120k–150k | Oct 20 |
+| **[Together AI](https://quant-scraper.com/companies/together)** | [Research Intern, Frontier Speculative Decoding (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) | San Francisco | Inference & performance | USD 121k–146k | Oct 16 |
+| ↳ | [Research Intern, Frontier Speculative Decoding (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5267197007) | San Francisco | Inference & performance | USD 121k–146k | Oct 16 |
+| **[Modal](https://quant-scraper.com/companies/modal)** | [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | New York, San Francisco | AI / ML | USD 180k | Jul 28 |
+| **[Mistral AI](https://quant-scraper.com/companies/mistral)** | [Applied Scientist (Internship)](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e) | Paris, London | Forward deployed & solutions | — | Jul 3 |
+| **[Cohere](https://quant-scraper.com/companies/cohere)** | [Machine Learning Intern/Co-op (Winter 2027)](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) | London | AI / ML | — | May 13 |
+| ↳ | [Research Internship (Winter 2027)](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) | San Francisco, London +2 | AI / ML | — | May 1 |
+| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Research Intern - World-Action Foundation Model, Robotics](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4) | Sunnyvale | Robotics | USD 135k | Feb 13 |
+| ↳ | [Research Intern - Robotic Hardware, Simulation and Data](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883) | Sunnyvale | Robotics | USD 135k | Feb 13 |
+| ↳ | [Research Intern - Reinforcement Learning, Robotics](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902) | Sunnyvale | Post-training & RL | USD 135k | Feb 13 |
+| ↳ | [Research Intern - 3D Vision and Generation, Self-Driving](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4) | Sunnyvale | Multimodal | USD 135k | Feb 13 |
+| ↳ | [Research Intern - Reinforcement Learning, Self-Driving](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526) | Sunnyvale | Post-training & RL | USD 135k | Sep 21, 2024 |
+| **[Physical Intelligence](https://quant-scraper.com/companies/physicalintelligence)** | [Research Internships](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076) | San Francisco | AI / ML | — | Aug 24, 2024 |
+| **Together AI** | [Research Intern, Frontier Agents (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) | San Francisco | Agents | USD 121k–146k | — |
+| ↳ | [Research Intern, Frontier Agents (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) | San Francisco | Agents | USD 121k–146k | — |
+| ↳ | [Research Intern, Inference (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) | San Francisco | Inference & performance | USD 121k–146k | — |
+| ↳ | [Research Intern, Inference (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238461007) | San Francisco | Inference & performance | USD 121k–146k | — |
+| ↳ | [Research Intern, Model Shaping (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238466007) | San Francisco, Amsterdam | Post-training & RL | USD 121k–146k | — |
+| ↳ | [Research Intern, Model Shaping (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238465007) | San Francisco, Amsterdam | Post-training & RL | USD 121k–146k | — |
+| ↳ | [Systems Research Engineer Intern - GPU Programming (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238460007) | San Francisco | Inference & performance | USD 121k–146k | — |
+| ↳ | [Systems Research Engineer Intern - GPU Programming (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238411007) | San Francisco | Inference & performance | USD 121k–146k | — |
 
 ### Engineering & technology — internships
 
-| Company | Role | Location | Focus | Posted |
-|---|---|---|---|---|
-| **[xAI](https://quant-scraper.com/companies/xai)** | [Summer 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255111007) | Palo Alto | Software | Oct 28 |
-| **[Vercel](https://quant-scraper.com/companies/vercel)** | [Software Engineering Intern - Winter '27](https://job-boards.greenhouse.io/vercel/jobs/6181755004) | San Francisco | Software | Oct 28 |
-| **[Together AI](https://quant-scraper.com/companies/together)** | [Technical Writer Intern, Developer Experience (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) | San Francisco | Software | Oct 27 |
-| **Vercel** | [Software Engineering Intern - Summer '27](https://job-boards.greenhouse.io/vercel/jobs/6181759004) | San Francisco | Software | Oct 26 |
-| **[Sierra](https://quant-scraper.com/companies/sierra)** | [Software Engineer Intern, Agent (London 2027)](https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff) | London | Agents | Oct 20 |
-| **Together AI** | [Hardware Security Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) | San Francisco | Security | Oct 16 |
-| **xAI** | [Spring 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5252108007) | Palo Alto | Software | Oct 2 |
-| **[Physical Intelligence](https://quant-scraper.com/companies/physicalintelligence)** | [Mechatronics Intern](https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a) | San Francisco | General | Sep 17 |
-| **[Mistral AI](https://quant-scraper.com/companies/mistral)** | [Applied AI, Forward Deployed Machine Learning Engineer - (Internship)](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) | Paris | Forward deployed & solutions | Sep 14 |
-| **Sierra** | [Software Engineer Intern, Agent (Summer 2027)](https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17) | Singapore | Agents | Sep 7 |
-| **[Perplexity](https://quant-scraper.com/companies/perplexity)** | [Internship - Machine Learning Research Engineer](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) | Berlin | AI / ML | Sep 2 |
-| **Sierra** | [Software Engineer Intern, Agent (Summer 2027)](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e) | San Francisco, New York | Agents | Aug 31 |
-| **[Decagon](https://quant-scraper.com/companies/decagon)** | [Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b) | San Francisco | General | Aug 20 |
-| **Perplexity** | [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) | Belgrade | Software | Jul 1 |
-| **[Cohere](https://quant-scraper.com/companies/cohere)** | [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | Dubai, London | Software | May 1 |
-| **Perplexity** | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d) | London | AI / ML | Apr 8 |
-| ↳ | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) | Belgrade | AI / ML | Jan 13 |
-| **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | London | Software | — |
-| ↳ | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco | Software | — |
-| ↳ | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) | Doha | Software | — |
+| Company | Role | Location | Focus | Salary | Posted |
+|---|---|---|---|---|---|
+| **[xAI](https://quant-scraper.com/companies/xai)** | [Spring 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5252108007) | Palo Alto | Software | USD 62k | Oct 29 |
+| ↳ | [Summer 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255111007) | Palo Alto | Software | USD 62k | Oct 28 |
+| **[Vercel](https://quant-scraper.com/companies/vercel)** | [Software Engineering Intern - Winter '27](https://job-boards.greenhouse.io/vercel/jobs/6181755004) | San Francisco | Software | — | Oct 28 |
+| **[Together AI](https://quant-scraper.com/companies/together)** | [Technical Writer Intern, Developer Experience (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) | San Francisco | Software | USD 85k | Oct 27 |
+| **Vercel** | [Software Engineering Intern - Summer '27](https://job-boards.greenhouse.io/vercel/jobs/6181759004) | San Francisco | Software | — | Oct 26 |
+| **[Sierra](https://quant-scraper.com/companies/sierra)** | [Software Engineer Intern, Agent (London 2027)](https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff) | London | Agents | — | Oct 20 |
+| **Together AI** | [Hardware Security Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) | San Francisco | Security | USD 121k | Oct 16 |
+| **[Physical Intelligence](https://quant-scraper.com/companies/physicalintelligence)** | [Mechatronics Intern](https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a) | San Francisco | General | — | Sep 17 |
+| **[Mistral AI](https://quant-scraper.com/companies/mistral)** | [Applied AI, Forward Deployed Machine Learning Engineer - (Internship)](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) | Paris | Forward deployed & solutions | — | Sep 14 |
+| **Sierra** | [Software Engineer Intern, Agent (Summer 2027)](https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17) | Singapore | Agents | — | Sep 7 |
+| **[Perplexity](https://quant-scraper.com/companies/perplexity)** | [Internship - Machine Learning Research Engineer](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) | Berlin | AI / ML | — | Sep 2 |
+| **Sierra** | [Software Engineer Intern, Agent (Summer 2027)](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e) | San Francisco, New York | Agents | — | Aug 31 |
+| **[Decagon](https://quant-scraper.com/companies/decagon)** | [Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b) | San Francisco | General | USD 156k | Aug 20 |
+| **Perplexity** | [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) | Belgrade | Software | — | Jul 1 |
+| **[Cohere](https://quant-scraper.com/companies/cohere)** | [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | Dubai, London | Software | — | May 1 |
+| **Perplexity** | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d) | London | AI / ML | — | Apr 8 |
+| ↳ | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) | Belgrade | AI / ML | — | Jan 13 |
+| **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | London | Software | — | — |
+| ↳ | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco | Software | — | — |
+| ↳ | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) | Doha | Software | — | — |
 
 ## Graduate roles
 
 ### Research — graduate roles
 
-| Company | Role | Location | Focus | Posted |
-|---|---|---|---|---|
-| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Research Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) | Sunnyvale | AI / ML | Aug 14 |
+| Company | Role | Location | Focus | Salary | Posted |
+|---|---|---|---|---|---|
+| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Research Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) | Sunnyvale | AI / ML | USD 140k–200k | Aug 14 |
 
 ### Engineering & technology — graduate roles
 
 <details open>
 <summary><b>Software</b> (9)</summary>
 
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[Cursor](https://quant-scraper.com/companies/cursor)** | [Software Engineer, New Grad 2027](https://cursor.com/careers/software-engineer-new-grad-2027) | San Francisco, New York +1 | Sep 8 |
-| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Software Integration Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19) | Sunnyvale | Aug 14 |
-| ↳ | [Software Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694) | Sunnyvale, Ann Arbor | Aug 14 |
-| ↳ | [Embedded Software Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | Sunnyvale | Aug 14 |
-| **[Cerebras](https://quant-scraper.com/companies/cerebras)** | [Software Engineer - New Grad 2026](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) | Toronto | May 11 |
-| **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730851005) | Doha | — |
-| ↳ | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | San Francisco | — |
-| ↳ | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730862005) | London | — |
-| ↳ | [Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | San Francisco | — |
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Cursor](https://quant-scraper.com/companies/cursor)** | [Software Engineer, New Grad 2027](https://cursor.com/careers/software-engineer-new-grad-2027) | San Francisco, New York +1 | — | Sep 8 |
+| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Software Integration Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19) | Sunnyvale | USD 123k–158k | Aug 14 |
+| ↳ | [Software Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694) | Sunnyvale, Ann Arbor | USD 123k–158k | Aug 14 |
+| ↳ | [Embedded Software Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | Sunnyvale | USD 123k–168k | Aug 14 |
+| **[Cerebras](https://quant-scraper.com/companies/cerebras)** | [Software Engineer - New Grad 2026](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) | Toronto | — | May 11 |
+| **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730851005) | Doha | — | — |
+| ↳ | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | San Francisco | USD 124k–162k | — |
+| ↳ | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730862005) | London | — | — |
+| ↳ | [Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | San Francisco | USD 124k–162k | — |
 
 </details>
 
 <details>
 <summary><b>Agents</b> (4)</summary>
 
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[Sierra](https://quant-scraper.com/companies/sierra)** | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) | London | Oct 27 |
-| ↳ | [Software Engineer, Agent (New Grad)](https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252) | London | Oct 20 |
-| ↳ | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) | Singapore | Sep 7 |
-| ↳ | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00) | San Francisco, New York | Aug 31 |
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Sierra](https://quant-scraper.com/companies/sierra)** | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) | London | — | Oct 27 |
+| ↳ | [Software Engineer, Agent (New Grad)](https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252) | London | — | Oct 20 |
+| ↳ | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) | Singapore | — | Sep 7 |
+| ↳ | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00) | San Francisco, New York | USD 150k–180k | Aug 31 |
 
 </details>
 
 <details>
 <summary><b>Forward deployed & solutions</b> (3)</summary>
 
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Forward Deployed Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/ac63bfed-de2e-47e5-8f20-fb7e7854795c) | Seoul | Oct 8 |
-| ↳ | [Forward Deployed Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/289cead6-d731-4ca4-95e2-e83cee83c20c) | Tokyo | Oct 8 |
-| ↳ | [Forward Deployed Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943) | Sunnyvale | Sep 2 |
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Forward Deployed Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/ac63bfed-de2e-47e5-8f20-fb7e7854795c) | Seoul | — | Oct 8 |
+| ↳ | [Forward Deployed Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/289cead6-d731-4ca4-95e2-e83cee83c20c) | Tokyo | — | Oct 8 |
+| ↳ | [Forward Deployed Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943) | Sunnyvale | USD 130k–158k | Sep 2 |
 
 </details>
 
 <details>
 <summary><b>Systems</b> (3)</summary>
 
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[Fireworks AI](https://quant-scraper.com/companies/fireworks)** | [Member of Technical Staff, Systems Infrastructure (2026 PhD New Grad)](https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef) | San Mateo, New York | Sep 8 |
-| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [OTA/Cloud Validation Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95) | Sunnyvale | Aug 25 |
-| **[Cerebras](https://quant-scraper.com/companies/cerebras)** | [DevOps Engineer - New Grad 2026](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) | Toronto | May 11 |
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Fireworks AI](https://quant-scraper.com/companies/fireworks)** | [Member of Technical Staff, Systems Infrastructure (2026 PhD New Grad)](https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef) | San Mateo, New York | USD 200k–230k | Sep 8 |
+| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [OTA/Cloud Validation Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95) | Sunnyvale | USD 90k–115k | Aug 25 |
+| **[Cerebras](https://quant-scraper.com/companies/cerebras)** | [DevOps Engineer - New Grad 2026](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) | Toronto | — | May 11 |
 
 </details>
 
 <details>
 <summary><b>Security</b> (2)</summary>
 
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[Together AI](https://quant-scraper.com/companies/together)** | [Hardware Security Engineer, New Grad (2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) | San Francisco | Oct 16 |
-| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Cybersecurity Software Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e) | Sunnyvale | Sep 2 |
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Together AI](https://quant-scraper.com/companies/together)** | [Hardware Security Engineer, New Grad (2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) | San Francisco | USD 140k–150k | Oct 16 |
+| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Cybersecurity Software Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e) | Sunnyvale | USD 130k–158k | Sep 2 |
 
 </details>
 
 <details>
 <summary><b>Hardware</b> (1)</summary>
 
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Hardware Integration Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c) | Sunnyvale | Aug 18 |
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Hardware Integration Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c) | Sunnyvale | USD 110k–148k | Aug 18 |
 
 </details>
 
 <details>
 <summary><b>Inference & performance</b> (1)</summary>
 
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[Cerebras](https://quant-scraper.com/companies/cerebras)** | [Kernel Engineer - New Grad](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e) | Sunnyvale | Jul 23 |
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Cerebras](https://quant-scraper.com/companies/cerebras)** | [Kernel Engineer - New Grad](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e) | Sunnyvale | — | Jul 23 |
 
 </details>
 
 <details>
 <summary><b>AI / ML</b> (1)</summary>
 
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[Perplexity](https://quant-scraper.com/companies/perplexity)** | [Member of Technical Staff, AI Products (Early Career - Industry)](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409) | San Francisco | Sep 23 |
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Perplexity](https://quant-scraper.com/companies/perplexity)** | [Member of Technical Staff, AI Products (Early Career - Industry)](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409) | San Francisco | USD 180k–270k | Sep 23 |
 
 </details>
 
 <details>
 <summary><b>General</b> (7)</summary>
 
-| Company | Role | Location | Posted |
-|---|---|---|---|
-| **[Perplexity](https://quant-scraper.com/companies/perplexity)** | [Member of Technical Staff (New Grad)](https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511) | San Francisco | Sep 29 |
-| **[Cerebras](https://quant-scraper.com/companies/cerebras)** | [Supplier Quality Engineer - New Grad](https://jobs.ashbyhq.com/cerebras/04ce4198-d9b6-4aae-ad11-97708033f94a) | Sunnyvale | Sep 18 |
-| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Mechanical Engineer - New Grad (December 2026)](https://jobs.ashbyhq.com/applied/6e57a97e-62bb-46fb-92ec-dd12831fd6f9) | Sunnyvale | Sep 9 |
-| **[Fireworks AI](https://quant-scraper.com/companies/fireworks)** | [Member of Technical Staff, New Grad (BS/MS)](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e) | San Mateo, New York | Sep 8 |
-| **Applied Intuition** | [Build & Release Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352) | Sunnyvale | Aug 25 |
-| ↳ | [UX Test Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4) | Sunnyvale | Aug 25 |
-| ↳ | [Embedded Test Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c) | Sunnyvale | Aug 14 |
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Perplexity](https://quant-scraper.com/companies/perplexity)** | [Member of Technical Staff (New Grad)](https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511) | San Francisco | — | Sep 29 |
+| **[Cerebras](https://quant-scraper.com/companies/cerebras)** | [Supplier Quality Engineer - New Grad](https://jobs.ashbyhq.com/cerebras/04ce4198-d9b6-4aae-ad11-97708033f94a) | Sunnyvale | — | Sep 18 |
+| **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Mechanical Engineer - New Grad (December 2026)](https://jobs.ashbyhq.com/applied/6e57a97e-62bb-46fb-92ec-dd12831fd6f9) | Sunnyvale | USD 110k–148k | Sep 9 |
+| **[Fireworks AI](https://quant-scraper.com/companies/fireworks)** | [Member of Technical Staff, New Grad (BS/MS)](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e) | San Mateo, New York | USD 160k–180k | Sep 8 |
+| **Applied Intuition** | [Build & Release Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352) | Sunnyvale | USD 90k–115k | Aug 25 |
+| ↳ | [UX Test Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4) | Sunnyvale | USD 90k–115k | Aug 25 |
+| ↳ | [Embedded Test Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c) | Sunnyvale | USD 90k–115k | Aug 14 |
 
 </details>
 
