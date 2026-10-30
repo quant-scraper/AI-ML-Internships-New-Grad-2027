@@ -4,24 +4,24 @@ Every open internship and graduate role at 31 AI labs and AI & machine learning 
 
 From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
 
-**42** internships · **31** graduate roles · updated 2026-10-30 11:25 UTC
+**43** internships · **32** graduate roles · updated 2026-10-30 21:31 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
-| Research | [21](https://quant-scraper.com/ai?for=students&discipline=research&region=AMER) | [5](https://quant-scraper.com/ai?for=students&discipline=research&region=EMEA) | — | [23](https://quant-scraper.com/ai?for=students&discipline=research) |
+| Research | [23](https://quant-scraper.com/ai?for=students&discipline=research&region=AMER) | [5](https://quant-scraper.com/ai?for=students&discipline=research&region=EMEA) | — | [25](https://quant-scraper.com/ai?for=students&discipline=research) |
 | Engineering & technology | [34](https://quant-scraper.com/ai?for=students&discipline=technology&region=AMER) | [12](https://quant-scraper.com/ai?for=students&discipline=technology&region=EMEA) | [4](https://quant-scraper.com/ai?for=students&discipline=technology&region=APAC) | [50](https://quant-scraper.com/ai?for=students&discipline=technology) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
 ## Contents
 
-- [Internships](#internships) (42)
-  - [Research](#research--internships) (22)
+- [Internships](#internships) (43)
+  - [Research](#research--internships) (23)
   - [Engineering & technology](#engineering--technology--internships) (20)
-- [Graduate roles](#graduate-roles) (31)
-  - [Research](#research--graduate-roles) (1)
+- [Graduate roles](#graduate-roles) (32)
+  - [Research](#research--graduate-roles) (2)
   - [Engineering & technology](#engineering--technology--graduate-roles) (30)
 
 ## Internships
@@ -30,10 +30,19 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
-| **[Meta Superintelligence Labs](https://quant-scraper.com/companies/msl)** | [Research Scientist Intern, MSL Agents (PhD)](https://www.metacareers.com/jobs/1136354555738164/) | Menlo Park | Agents | — | Oct 22 |
+| **[Meta Superintelligence Labs](https://quant-scraper.com/companies/msl)** | [Research Scientist Intern, MSL - Agentic Post-Training (PhD)](https://www.metacareers.com/jobs/1155292783739299/) | Menlo Park | Post-training & RL | — | Oct 30 |
+| ↳ | [Research Scientist Intern, MSL Agents (PhD)](https://www.metacareers.com/jobs/1136354555738164/) | Menlo Park | Agents | — | Oct 22 |
 | **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, San Francisco | AI / ML | USD 120k–150k | Oct 20 |
 | **[Together AI](https://quant-scraper.com/companies/together)** | [Research Intern, Frontier Speculative Decoding (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) | San Francisco | Inference & performance | USD 121k–146k | Oct 16 |
 | ↳ | [Research Intern, Frontier Speculative Decoding (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5267197007) | San Francisco | Inference & performance | USD 121k–146k | Oct 16 |
+| ↳ | [Research Intern, Frontier Agents (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) | San Francisco | Agents | USD 121k–146k | Sep 23 |
+| ↳ | [Research Intern, Frontier Agents (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) | San Francisco | Agents | USD 121k–146k | Sep 23 |
+| ↳ | [Research Intern, Inference (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) | San Francisco | Inference & performance | USD 121k–146k | Sep 23 |
+| ↳ | [Research Intern, Inference (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238461007) | San Francisco | Inference & performance | USD 121k–146k | Sep 23 |
+| ↳ | [Research Intern, Model Shaping (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238466007) | San Francisco, Amsterdam | Post-training & RL | USD 121k–146k | Sep 23 |
+| ↳ | [Research Intern, Model Shaping (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238465007) | San Francisco, Amsterdam | Post-training & RL | USD 121k–146k | Sep 23 |
+| ↳ | [Systems Research Engineer Intern - GPU Programming (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238460007) | San Francisco | Inference & performance | USD 121k–146k | Sep 23 |
+| ↳ | [Systems Research Engineer Intern - GPU Programming (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238411007) | San Francisco | Inference & performance | USD 121k–146k | Sep 23 |
 | **[Modal](https://quant-scraper.com/companies/modal)** | [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | New York, San Francisco | AI / ML | USD 180k | Jul 28 |
 | **[Mistral AI](https://quant-scraper.com/companies/mistral)** | [Applied Scientist (Internship)](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e) | Paris, London | Forward deployed & solutions | — | Jul 3 |
 | **[Cohere](https://quant-scraper.com/companies/cohere)** | [Machine Learning Intern/Co-op (Winter 2027)](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) | London | AI / ML | — | May 13 |
@@ -44,14 +53,6 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 | ↳ | [Research Intern - 3D Vision and Generation, Self-Driving](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4) | Sunnyvale | Multimodal | USD 135k | Feb 13 |
 | ↳ | [Research Intern - Reinforcement Learning, Self-Driving](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526) | Sunnyvale | Post-training & RL | USD 135k | Sep 21, 2024 |
 | **[Physical Intelligence](https://quant-scraper.com/companies/physicalintelligence)** | [Research Internships](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076) | San Francisco | AI / ML | — | Aug 24, 2024 |
-| **Together AI** | [Research Intern, Frontier Agents (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) | San Francisco | Agents | USD 121k–146k | — |
-| ↳ | [Research Intern, Frontier Agents (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) | San Francisco | Agents | USD 121k–146k | — |
-| ↳ | [Research Intern, Inference (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) | San Francisco | Inference & performance | USD 121k–146k | — |
-| ↳ | [Research Intern, Inference (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238461007) | San Francisco | Inference & performance | USD 121k–146k | — |
-| ↳ | [Research Intern, Model Shaping (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238466007) | San Francisco, Amsterdam | Post-training & RL | USD 121k–146k | — |
-| ↳ | [Research Intern, Model Shaping (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238465007) | San Francisco, Amsterdam | Post-training & RL | USD 121k–146k | — |
-| ↳ | [Systems Research Engineer Intern - GPU Programming (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238460007) | San Francisco | Inference & performance | USD 121k–146k | — |
-| ↳ | [Systems Research Engineer Intern - GPU Programming (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238411007) | San Francisco | Inference & performance | USD 121k–146k | — |
 
 ### Engineering & technology — internships
 
@@ -59,9 +60,7 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 |---|---|---|---|---|---|
 | **[xAI](https://quant-scraper.com/companies/xai)** | [Spring 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5252108007) | Palo Alto | Software | USD 62k | Oct 29 |
 | ↳ | [Summer 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255111007) | Palo Alto | Software | USD 62k | Oct 28 |
-| **[Vercel](https://quant-scraper.com/companies/vercel)** | [Software Engineering Intern - Winter '27](https://job-boards.greenhouse.io/vercel/jobs/6181755004) | San Francisco | Software | — | Oct 28 |
 | **[Together AI](https://quant-scraper.com/companies/together)** | [Technical Writer Intern, Developer Experience (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) | San Francisco | Software | USD 85k | Oct 27 |
-| **Vercel** | [Software Engineering Intern - Summer '27](https://job-boards.greenhouse.io/vercel/jobs/6181759004) | San Francisco | Software | — | Oct 26 |
 | **[Sierra](https://quant-scraper.com/companies/sierra)** | [Software Engineer Intern, Agent (London 2027)](https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff) | London | Agents | — | Oct 20 |
 | **Together AI** | [Hardware Security Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) | San Francisco | Security | USD 121k | Oct 16 |
 | **[Physical Intelligence](https://quant-scraper.com/companies/physicalintelligence)** | [Mechatronics Intern](https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a) | San Francisco | General | — | Sep 17 |
@@ -77,6 +76,8 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 | **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | London | Software | — | — |
 | ↳ | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco | Software | — | — |
 | ↳ | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) | Doha | Software | — | — |
+| **[Vercel](https://quant-scraper.com/companies/vercel)** | [Software Engineering Intern - Summer '27](https://job-boards.greenhouse.io/vercel/jobs/6181759004) | San Francisco | Software | — | — |
+| ↳ | [Software Engineering Intern - Winter '27](https://job-boards.greenhouse.io/vercel/jobs/6181755004) | San Francisco | Software | — | — |
 
 ## Graduate roles
 
@@ -84,6 +85,7 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
+| **[Fireworks AI](https://quant-scraper.com/companies/fireworks)** | [Member of Technical Staff, Research (2026 PhD New Grad) - Seattle](https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58) | Seattle | AI / ML | USD 200k–300k | Oct 30 |
 | **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Research Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) | Sunnyvale | AI / ML | USD 140k–200k | Aug 14 |
 
 ### Engineering & technology — graduate roles
