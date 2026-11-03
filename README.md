@@ -4,22 +4,22 @@ Every open internship and graduate role at 31 AI labs and AI & machine learning 
 
 From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
 
-**43** internships · **32** graduate roles · updated 2026-11-03 12:49 UTC
+**42** internships · **32** graduate roles · updated 2026-11-03 22:19 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
 | Research | [24](https://quant-scraper.com/ai?for=students&discipline=research&region=AMER) | [5](https://quant-scraper.com/ai?for=students&discipline=research&region=EMEA) | — | [26](https://quant-scraper.com/ai?for=students&discipline=research) |
-| Engineering & technology | [33](https://quant-scraper.com/ai?for=students&discipline=technology&region=AMER) | [12](https://quant-scraper.com/ai?for=students&discipline=technology&region=EMEA) | [4](https://quant-scraper.com/ai?for=students&discipline=technology&region=APAC) | [49](https://quant-scraper.com/ai?for=students&discipline=technology) |
+| Engineering & technology | [33](https://quant-scraper.com/ai?for=students&discipline=technology&region=AMER) | [11](https://quant-scraper.com/ai?for=students&discipline=technology&region=EMEA) | [4](https://quant-scraper.com/ai?for=students&discipline=technology&region=APAC) | [48](https://quant-scraper.com/ai?for=students&discipline=technology) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
 ## Contents
 
-- [Internships](#internships) (43)
+- [Internships](#internships) (42)
   - [Research](#research--internships) (24)
-  - [Engineering & technology](#engineering--technology--internships) (19)
+  - [Engineering & technology](#engineering--technology--internships) (18)
 - [Graduate roles](#graduate-roles) (32)
   - [Research](#research--graduate-roles) (2)
   - [Engineering & technology](#engineering--technology--graduate-roles) (30)
@@ -71,8 +71,7 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 | **Sierra** | [Software Engineer Intern, Agent (Summer 2027)](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e) | San Francisco, New York | Agents | — | Aug 31 |
 | **[Decagon](https://quant-scraper.com/companies/decagon)** | [Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b) | San Francisco | General | USD 156k | Aug 20 |
 | **Perplexity** | [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) | Belgrade | Software | — | Jul 1 |
-| **[Cohere](https://quant-scraper.com/companies/cohere)** | [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | Dubai, London | Software | — | May 1 |
-| **Perplexity** | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d) | London | AI / ML | — | Apr 8 |
+| ↳ | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d) | London | AI / ML | — | Apr 8 |
 | ↳ | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) | Belgrade | AI / ML | — | Jan 13 |
 | **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | London | Software | — | — |
 | ↳ | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco | Software | — | — |
