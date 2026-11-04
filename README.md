@@ -4,7 +4,7 @@ Every open internship and graduate role at 31 AI labs and AI & machine learning 
 
 From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
 
-**42** internships · **32** graduate roles · updated 2026-11-03 22:19 UTC
+**42** internships · **32** graduate roles · updated 2026-11-04 03:00 UTC
 
 ## Where the roles are
 
@@ -98,7 +98,7 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 | **[Perplexity](https://quant-scraper.com/companies/perplexity)** | [Member of Technical Staff (New Grad)](https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511) | San Francisco | General | — | Sep 29 |
 | ↳ | [Member of Technical Staff, AI Products (Early Career - Industry)](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409) | San Francisco | AI / ML | USD 180k–270k | Sep 23 |
 | **[Cerebras](https://quant-scraper.com/companies/cerebras)** | [Supplier Quality Engineer - New Grad](https://jobs.ashbyhq.com/cerebras/04ce4198-d9b6-4aae-ad11-97708033f94a) | Sunnyvale | General | — | Sep 18 |
-| **Applied Intuition** | [Mechanical Engineer - New Grad (December 2026)](https://jobs.ashbyhq.com/applied/6e57a97e-62bb-46fb-92ec-dd12831fd6f9) | Sunnyvale | General | USD 110k–148k | Sep 9 |
+| **[OpenAI](https://quant-scraper.com/companies/openai)** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco | Software | USD 180k | Sep 14 |
 | **[Fireworks AI](https://quant-scraper.com/companies/fireworks)** | [Member of Technical Staff, New Grad (BS/MS)](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e) | San Mateo, New York | General | USD 160k–180k | Sep 8 |
 | **[Cursor](https://quant-scraper.com/companies/cursor)** | [Software Engineer, New Grad 2027](https://cursor.com/careers/software-engineer-new-grad-2027) | San Francisco, New York +1 | Software | — | Sep 8 |
 | **Fireworks AI** | [Member of Technical Staff, Systems Infrastructure (2026 PhD New Grad)](https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef) | San Mateo, New York | Systems | USD 200k–230k | Sep 8 |
