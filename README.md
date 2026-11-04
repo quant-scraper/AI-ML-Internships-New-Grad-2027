@@ -4,25 +4,25 @@ Every open internship and graduate role at 31 AI labs and AI & machine learning 
 
 From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
 
-**42** internships · **32** graduate roles · updated 2026-11-04 13:01 UTC
+**41** internships · **31** graduate roles · updated 2026-11-04 22:38 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
 | Research | [24](https://quant-scraper.com/ai?for=students&discipline=research&region=AMER) | [5](https://quant-scraper.com/ai?for=students&discipline=research&region=EMEA) | — | [26](https://quant-scraper.com/ai?for=students&discipline=research) |
-| Engineering & technology | [33](https://quant-scraper.com/ai?for=students&discipline=technology&region=AMER) | [11](https://quant-scraper.com/ai?for=students&discipline=technology&region=EMEA) | [4](https://quant-scraper.com/ai?for=students&discipline=technology&region=APAC) | [48](https://quant-scraper.com/ai?for=students&discipline=technology) |
+| Engineering & technology | [31](https://quant-scraper.com/ai?for=students&discipline=technology&region=AMER) | [11](https://quant-scraper.com/ai?for=students&discipline=technology&region=EMEA) | [4](https://quant-scraper.com/ai?for=students&discipline=technology&region=APAC) | [46](https://quant-scraper.com/ai?for=students&discipline=technology) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
 ## Contents
 
-- [Internships](#internships) (42)
+- [Internships](#internships) (41)
   - [Research](#research--internships) (24)
-  - [Engineering & technology](#engineering--technology--internships) (18)
-- [Graduate roles](#graduate-roles) (32)
+  - [Engineering & technology](#engineering--technology--internships) (17)
+- [Graduate roles](#graduate-roles) (31)
   - [Research](#research--graduate-roles) (2)
-  - [Engineering & technology](#engineering--technology--graduate-roles) (30)
+  - [Engineering & technology](#engineering--technology--graduate-roles) (29)
 
 ## Internships
 
@@ -60,10 +60,9 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
 | **[Together AI](https://quant-scraper.com/companies/together)** | [Technical Writer Intern, Developer Experience (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) | San Francisco | Software | USD 85k | Nov 3 |
-| **[xAI](https://quant-scraper.com/companies/xai)** | [Spring 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5252108007) | Palo Alto | Software | USD 62k | Oct 29 |
-| ↳ | [Summer 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255111007) | Palo Alto | Software | USD 62k | Oct 28 |
 | **[Sierra](https://quant-scraper.com/companies/sierra)** | [Software Engineer Intern, Agent (London 2027)](https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff) | London | Agents | — | Oct 20 |
-| **Together AI** | [Hardware Security Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) | San Francisco | Security | USD 121k | Oct 16 |
+| **[xAI](https://quant-scraper.com/companies/xai)** | [Spring 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5252108007) | Palo Alto | Software | USD 62k | Oct 2 |
+| ↳ | [Summer 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255111007) | Palo Alto | Software | USD 62k | Oct 2 |
 | **[Physical Intelligence](https://quant-scraper.com/companies/physicalintelligence)** | [Mechatronics Intern](https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a) | San Francisco | General | — | Sep 17 |
 | **[Mistral AI](https://quant-scraper.com/companies/mistral)** | [Applied AI, Forward Deployed Machine Learning Engineer - (Internship)](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) | Paris | Forward deployed & solutions | — | Sep 14 |
 | **Sierra** | [Software Engineer Intern, Agent (Summer 2027)](https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17) | Singapore | Agents | — | Sep 7 |
@@ -92,7 +91,6 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
 | **[Sierra](https://quant-scraper.com/companies/sierra)** | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) | London | Agents | — | Oct 27 |
-| **[Together AI](https://quant-scraper.com/companies/together)** | [Hardware Security Engineer, New Grad (2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) | San Francisco | Security | USD 140k–150k | Oct 16 |
 | **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Forward Deployed Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/ac63bfed-de2e-47e5-8f20-fb7e7854795c) | Seoul | Forward deployed & solutions | — | Oct 8 |
 | ↳ | [Forward Deployed Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/289cead6-d731-4ca4-95e2-e83cee83c20c) | Tokyo | Forward deployed & solutions | — | Oct 8 |
 | **[Perplexity](https://quant-scraper.com/companies/perplexity)** | [Member of Technical Staff (New Grad)](https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511) | San Francisco | General | — | Sep 29 |
