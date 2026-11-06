@@ -4,7 +4,7 @@ Every open internship and graduate role at 31 AI labs and AI & machine learning 
 
 From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
 
-**41** internships · **30** graduate roles · updated 2026-11-06 03:27 UTC
+**41** internships · **30** graduate roles · updated 2026-11-06 12:58 UTC
 
 ## Where the roles are
 
@@ -115,7 +115,7 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 | ↳ | [DevOps Engineer - New Grad 2026](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) | Toronto | Systems | — | May 11 |
 | ↳ | [Software Engineer - New Grad 2026](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) | Toronto | Software | — | May 11 |
 | **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730851005) | Doha | Software | — | — |
-| ↳ | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | San Francisco | Software | USD 124k–162k | — |
+| ↳ | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | San Francisco | Software | USD 144k–180k | — |
 | ↳ | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730862005) | London | Software | — | — |
 | ↳ | [Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | San Francisco | Software | USD 124k–162k | — |
 
