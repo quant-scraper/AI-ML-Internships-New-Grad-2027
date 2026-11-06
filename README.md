@@ -4,13 +4,13 @@ Every open internship and graduate role at 31 AI labs and AI & machine learning 
 
 From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
 
-**41** internships · **31** graduate roles · updated 2026-11-05 22:41 UTC
+**41** internships · **30** graduate roles · updated 2026-11-06 03:27 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
-| Research | [24](https://quant-scraper.com/ai?for=students&discipline=research&region=AMER) | [5](https://quant-scraper.com/ai?for=students&discipline=research&region=EMEA) | — | [26](https://quant-scraper.com/ai?for=students&discipline=research) |
+| Research | [23](https://quant-scraper.com/ai?for=students&discipline=research&region=AMER) | [5](https://quant-scraper.com/ai?for=students&discipline=research&region=EMEA) | — | [25](https://quant-scraper.com/ai?for=students&discipline=research) |
 | Engineering & technology | [31](https://quant-scraper.com/ai?for=students&discipline=technology&region=AMER) | [11](https://quant-scraper.com/ai?for=students&discipline=technology&region=EMEA) | [4](https://quant-scraper.com/ai?for=students&discipline=technology&region=APAC) | [46](https://quant-scraper.com/ai?for=students&discipline=technology) |
 
 <sub>A role open in several regions counts once in each.</sub>
@@ -20,8 +20,8 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 - [Internships](#internships) (41)
   - [Research](#research--internships) (24)
   - [Engineering & technology](#engineering--technology--internships) (17)
-- [Graduate roles](#graduate-roles) (31)
-  - [Research](#research--graduate-roles) (2)
+- [Graduate roles](#graduate-roles) (30)
+  - [Research](#research--graduate-roles) (1)
   - [Engineering & technology](#engineering--technology--graduate-roles) (29)
 
 ## Internships
@@ -83,7 +83,6 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
-| **[Fireworks AI](https://quant-scraper.com/companies/fireworks)** | [Member of Technical Staff, Research (2026 PhD New Grad) - Seattle](https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58) | Seattle | AI / ML | USD 200k–300k | Oct 30 |
 | **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Research Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) | Sunnyvale | AI / ML | USD 140k–200k | Aug 14 |
 
 ### Engineering & technology — graduate roles
