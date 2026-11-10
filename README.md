@@ -4,7 +4,7 @@ Every open internship and graduate role at 31 AI labs and AI & machine learning 
 
 From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles) · [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles).
 
-**38** internships · **30** graduate roles · updated 2026-11-10 00:42 UTC
+**38** internships · **30** graduate roles · updated 2026-11-10 13:29 UTC
 
 ## Where the roles are
 
@@ -86,6 +86,7 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
+| **[Cursor](https://quant-scraper.com/companies/cursor)** | [Software Engineer, New Grad 2027](https://cursor.com/careers/software-engineer-new-grad-2027) | San Francisco, New York +1 | Software | — | Nov 10 |
 | **[Scale AI](https://quant-scraper.com/companies/scaleai)** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730862005) | London | Software | — | Nov 9 |
 | **[Sierra](https://quant-scraper.com/companies/sierra)** | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) | London | Agents | — | Oct 27 |
 | **[Applied Intuition](https://quant-scraper.com/companies/appliedintuition)** | [Forward Deployed Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/ac63bfed-de2e-47e5-8f20-fb7e7854795c) | Seoul | Forward deployed & solutions | — | Oct 8 |
@@ -95,8 +96,7 @@ From **[QuantScraper](https://quant-scraper.com/ai?for=students)**, where you ca
 | **[Cerebras](https://quant-scraper.com/companies/cerebras)** | [Supplier Quality Engineer - New Grad](https://jobs.ashbyhq.com/cerebras/04ce4198-d9b6-4aae-ad11-97708033f94a) | Sunnyvale | General | — | Sep 18 |
 | **[OpenAI](https://quant-scraper.com/companies/openai)** | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco | Software | USD 180k | Sep 14 |
 | **[Fireworks AI](https://quant-scraper.com/companies/fireworks)** | [Member of Technical Staff, New Grad (BS/MS)](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e) | San Mateo, New York | General | USD 160k–180k | Sep 8 |
-| **[Cursor](https://quant-scraper.com/companies/cursor)** | [Software Engineer, New Grad 2027](https://cursor.com/careers/software-engineer-new-grad-2027) | San Francisco, New York +1 | Software | — | Sep 8 |
-| **Fireworks AI** | [Member of Technical Staff, Systems Infrastructure (2026 PhD New Grad)](https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef) | San Mateo, New York | Systems | USD 200k–230k | Sep 8 |
+| ↳ | [Member of Technical Staff, Systems Infrastructure (2026 PhD New Grad)](https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef) | San Mateo, New York | Systems | USD 200k–230k | Sep 8 |
 | **Sierra** | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/Sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) | Singapore | Agents | — | Sep 7 |
 | **Applied Intuition** | [Cybersecurity Software Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e) | Sunnyvale | Security | USD 130k–158k | Sep 2 |
 | ↳ | [Forward Deployed Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943) | Sunnyvale | Forward deployed & solutions | USD 130k–158k | Sep 2 |
